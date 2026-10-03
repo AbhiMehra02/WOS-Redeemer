@@ -2,6 +2,14 @@
 
 **Public release:** v1 (version 1.0) — first stable release.
 
+## Download
+
+Download the latest Android APK from GitHub Releases:
+
+**Download [WOS Gift Redeemer](https://github.com/AbhiMehra02/WOS-Redeemer/releases/latest)**
+
+> Open the latest release and download `WOSGiftRedeemer-v1.apk` from the **Assets** section.
+
 A small Android app for managing Whiteout Survival accounts, checking active gift codes, and redeeming codes for selected accounts.
 
 **Current version:** `v1`  
