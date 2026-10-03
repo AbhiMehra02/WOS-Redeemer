@@ -1,0 +1,9 @@
+<resources>
+ <color name="bg">#1C1C1E</color><color name="surface">#252527</color><color name="surface_soft">#303033</color>
+ <color name="ink">#F0F0F2</color><color name="muted">#A5A5AA</color>
+ <color name="primary">#7898B5</color><color name="primary_dark">#88A8C4</color>
+ <color name="line">#3B3B3F</color><color name="danger">#D77A7A</color>
+ <color name="success">#72A17D</color><color name="warning">#C09A68</color>
+ <color name="nav_selected">#35373A</color><color name="field_bg">#2B2B2E</color>
+ <color name="disabled_primary">#455563</color>
+</resources>
