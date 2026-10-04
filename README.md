@@ -1,6 +1,6 @@
 # WOS Gift Redeemer
 
-**Public release:** v1 (version 1.0) — first stable release.
+**Current release:** v3 / 3.0
 
 ## Download
 
@@ -8,11 +8,11 @@ Download the latest Android APK from GitHub Releases:
 
 **Download [WOS Gift Redeemer](https://github.com/AbhiMehra02/WOS-Redeemer/releases/latest)**
 
-> Open the latest release and download `WOSGiftRedeemer-v1.apk` from the **Assets** section.
+> Open the latest release and download `WOSGiftRedeemer-v3.apk` from the **Assets** section.
 
 A small Android app for managing Whiteout Survival accounts, checking active gift codes, and redeeming codes for selected accounts.
 
-**Current version:** `v1`  
+**Current version:** `v3`  
 **Package:** `com.wos.giftredeemer`  
 **Minimum Android:** 6.0 / API 23  
 **Target / compile SDK:** API 34  
@@ -26,7 +26,7 @@ A small Android app for managing Whiteout Survival accounts, checking active gif
 - Saved unique gift-code catalog.
 - Run-based redemption history and technical details when needed.
 - Network failures remain retryable rather than being permanently marked attempted.
-- 30-day automatic cleanup for old catalog/history data.
+- 20-day automatic cleanup for old catalog/history data.
 - Two visual themes: **Classic Retro** and **Modern**.
 - Appearance modes: **System**, **Light**, and **Dark**.
 
