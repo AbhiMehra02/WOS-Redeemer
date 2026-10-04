@@ -20,3 +20,8 @@ Thumbs.db
 # Logs / temp
 *.log
 *.tmp
+
+# Local V3 patch backups
+
+# Local V3 patch backups
+.v3-*/
